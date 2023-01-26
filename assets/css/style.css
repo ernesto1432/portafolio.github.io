@@ -19,6 +19,7 @@ main{
 }
 .presentacion h1{
     font-size: 70px;
+    color: red;
 }
 
 .presentacion h2 {
